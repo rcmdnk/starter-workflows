@@ -12,3 +12,4 @@ Valid properties:
 * `description`: the description shown in onboarding
 * `iconName`: the icon name in the relevant folder, for example `django` should have an icon `icons/django.svg`. Only SVG is supported at this time.
 * `categories`: the categories that it will be shown under
+
